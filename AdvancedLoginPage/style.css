@@ -8,8 +8,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     min-height: 100vh;
     display: flex;
-    background: linear-gradient(135deg, #0EA5E9 0%, #22D3EE 45%, #38BDF8 100%);
-
+    background: linear-gradient(135deg, #6A5AE0 0%, #7B6FE5 40%, #8E7BEE 100%);
     justify-content: center;
     align-items: center;
     padding: 20px;
@@ -172,4 +171,5 @@ body {
     .login-header h1 {
         font-size: 24px;
     }
+
 }
